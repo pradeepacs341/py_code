@@ -1,6 +1,3 @@
-Finding LCM for the given number
-------------------------------------
-Coding:
 def calculate_lcm(x,y):
     if x>y:
       greater=x
